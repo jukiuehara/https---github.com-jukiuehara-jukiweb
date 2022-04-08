@@ -1,0 +1,94 @@
+.haikei{
+    background-image: url(images/haikei.jpg);
+    background-size: cover;
+    padding:80px 0 80px 0;
+
+}
+h1{
+    text-align:center;
+
+    font-family: "sans-serif";
+
+    opacity:0.7;
+    font-family: “HGP行書体”, “ＭＳ Ｐ明朝”, “MS PMincho”, serif;
+}
+h2{
+    
+    text-align:center;
+    font-family: “HGP行書体”, “ＭＳ Ｐ明朝”, “MS PMincho”, serif;
+}
+.profile{
+
+    width: 290px;
+    margin: auto;
+}
+.kami{
+    margin: auto;
+    width: 800px;
+    height: 500px;
+    text-align:center;
+    background-color:#F7F6EB;
+    padding-top:25px;
+
+}
+
+body{
+    background-color: rgb(241, 251, 253);
+    font-family: “HGP行書体”, “ＭＳ Ｐ明朝”, “MS PMincho”, serif;
+}
+.item button{
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.container{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+button{
+    font-size: 50px;
+    font-family: “HGP行書体”, “ＭＳ Ｐ明朝”, “MS PMincho”, serif;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+   
+}
+.b{
+    margin-left: 30px;
+    background-color:#F7F6EB;
+    width: 700px;
+    height: 180px;
+}
+.like{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+
+    background-color: rgb(193, 222, 255);
+    height: 230px;
+    padding: 30px 20px 15px 30px;
+    width: 1000px;
+    text-align: center;
+}
+.haba{
+    margin-left: 50px;
+}
+
+.mylike{
+
+
+margin-left: 60px;
+margin-top: 40px;
+border-radius: 50%;
+padding-top:20px;
+
+display: flex;
+justify-content: space-between;
+
+}
