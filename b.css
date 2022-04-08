@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(241, 251, 253);
+    font-family: “HGP行書体”, “ＭＳ Ｐ明朝”, “MS PMincho”, serif;
+}
+.center{
+    margin: auto;
+    width: 800px;
+    height: 400px;
+    text-align:center;
+    background-color:#F7F6EB;
+    margin-top: 110px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h2{
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+}
